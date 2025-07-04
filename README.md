@@ -22,8 +22,6 @@ Either way, I write code that makes people **laugh**, **think**, and occasionall
 ## 🔥 Featured Project: Meme Generator Deluxe™  
 > _"Because your sense of humor deserves a backend."_
 
-🎯 [Check it out → GitHub Repo](https://github.com/BhaduryCodes/meme-generator)  
-
 Features:
 - Upload any image or choose from popular meme templates  
 - Drag & drop text with full styling control  
@@ -53,8 +51,6 @@ I’m experimenting with:
 
 ## 📸 Latest Meme Creation  
 > _"When your code runs perfectly on the first try…"_
-
-![Latest Meme](https://yourcdn.com/memes/latest-meme.png)
 
 ---
 
