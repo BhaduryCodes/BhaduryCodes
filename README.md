@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Ahmad – Your Friendly Meme Engineer 😎
 
-![Meme Banner](https://yourcdn.com/meme-banner.png)
-
 ## 😂 I Build Memes for the Internet to Survive
 
 While others write code to solve problems, I write code to **make you laugh**.  
