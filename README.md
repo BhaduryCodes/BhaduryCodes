@@ -62,7 +62,7 @@ I’m experimenting with:
 
 - 🧠 GitHub: [@BhaduryCodes](https://github.com/BhaduryCodes)  
 - 📷 Instagram: [@Ahmad_b_rrs](https://instagram.com/ahmad_b_rrs) *(Gold & Giggles)*  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/ahmad_b_rrs)  
+- 🐦 Twitter: [@ahmad_b_rrs](https://twitter.com/ahmad_b_rrs)  
 - 💌 Email: memes@AhmadLovesLToLaugh.com
 
 ---
