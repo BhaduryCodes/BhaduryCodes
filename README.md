@@ -61,9 +61,9 @@ I’m experimenting with:
 ## 📬 Connect with Me
 
 - 🧠 GitHub: [@BhaduryCodes](https://github.com/BhaduryCodes)  
-- 📷 Instagram: [@al.emirate](https://instagram.com/al.emirate) *(Gold & Giggles)*  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💌 Email: memes@yourdomain.com
+- 📷 Instagram: [@Ahmad_b_rrs](https://instagram.com/ahmad_b_rrs) *(Gold & Giggles)*  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/ahmad_b_rrs)  
+- 💌 Email: memes@AhmadLovesLToLaugh.com
 
 ---
 
